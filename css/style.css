@@ -1,0 +1,7 @@
+.shipping-details input,
+.billing-details input,
+.other-details input,
+.other-details select {
+    width: 30%;
+    margin-bottom: 10px;
+}
